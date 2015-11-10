@@ -1,1 +1,2 @@
 This is test file 1 which has been changed
+More changes to test file 1.
