@@ -5,3 +5,7 @@ This is yet another change to test file 2.
 Changes to test merge commits.
 Some more changes.
 Even more changes.
+This is a change to file 2.
+And more changes.
+Finally, some more changes.
+
