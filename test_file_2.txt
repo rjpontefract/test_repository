@@ -3,4 +3,5 @@ This is another, non-conflicting line
 More modifications to test file 2
 This is yet another change to test file 2.
 This is a change to file 2.
+And more changes.
 
